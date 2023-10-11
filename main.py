@@ -43,7 +43,6 @@ def getURLS():
     all_urls = []
     for i in range(1,27):
         all_urls.append(f'{url}{i}')
-    # return all_urls[0:1] #remove this line
     return all_urls
 
 def getLocalTeam(game_line):
