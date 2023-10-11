@@ -18,7 +18,7 @@ Darle a las 3 rallitas
 Luego en ajustes
 ![33403b95-a8b1-452c-9b62-9d64f32cbc28](https://github.com/alexcatmu/FCFbot/assets/23222618/6e7b0972-1a0e-4008-9887-80f9014145b9)
 
-Buscamos el calendario donde lo hayamos añadido y le damos al boton **+**
+Buscamos el calendario donde lo hayamos añadido y le damos al boton **Mostrar mas**
 
 <br>
 
